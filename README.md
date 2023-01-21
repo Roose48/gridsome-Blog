@@ -1,6 +1,13 @@
 # Gridsome Blog
 
-> A blog starter theme for [Gridsome]() with a minimalistic design.
+> Gridsome is a modern Ja,stack framework powered by vue.js for building fast and secure static websites and application by default taht can be deployed anywhere.
+The simplicity of the Gridsome is what makes it one of the most sought after static site generators.
+
+Using these TECH And FEATURES
+1. Gridsome
+2. Vue
+3. GraphQL
+4. Markdown
 
 ## Preview
 
@@ -9,14 +16,12 @@
 ## Install
 ### 1. Install Gridsome CLI tool if you don't have
 
-`npm install --global @gridsome/cli`
+`npm install -i`
 
-### 2. Create a Gridsome project
+### 2. Run a Gridsome project
 
-1. `gridsome create my-blog`  to install default starter
-2. `cd my-blog` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+1. `gridsome develop` to start a local dev server at `http://localhost:8080`
+4. Happy coding 
 
 <!-- Markdown snippet -->
 ### 3. Deploy Gridsome project
