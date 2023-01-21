@@ -6,8 +6,7 @@
       <p>
         Built with
         <a class="link" href="//gridsome.org">Gridsome</a>
-        & Made with ❤️ by
-        <a class="link" href="//twitter.com/lauragift_">Gift Egwuenu</a>
+        & Made with ❤️ by Roose48
       </p>
     </div>
   </main>

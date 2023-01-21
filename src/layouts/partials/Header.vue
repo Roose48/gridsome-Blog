@@ -2,17 +2,14 @@
   <div>
     <header class="layout-header">
       <nav class="nav">
-        <ToggleTheme />
       </nav>
     </header>
   </div>
 </template>
 
 <script>
-import ToggleTheme from "@/components/ToggleTheme";
 export default {
   components: {
-    ToggleTheme,
   },
 };
 </script>
