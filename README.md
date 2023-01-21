@@ -11,7 +11,7 @@ Using these TECH And FEATURES
 
 ## Preview
 
-<img src='instagram2.gif' title='' width='' alt='' />
+<img src='blog.gif' title='' width='' alt='' />
 
 ## Install
 ### 1. Install Gridsome CLI tool if you don't have
