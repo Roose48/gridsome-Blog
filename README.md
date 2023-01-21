@@ -1,6 +1,6 @@
 # Gridsome Blog
 
-> Gridsome is a modern Ja,stack framework powered by vue.js for building fast and secure static websites and application by default taht can be deployed anywhere.
+> Gridsome is a modern Jamstack framework powered by vue.js for building fast and secure static websites and application by default taht can be deployed anywhere.
 The simplicity of the Gridsome is what makes it one of the most sought after static site generators.
 
 Using these TECH And FEATURES
