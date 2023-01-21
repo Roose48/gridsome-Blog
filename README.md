@@ -26,4 +26,7 @@ Using these TECH And FEATURES
 <!-- Markdown snippet -->
 ### 3. Deploy Gridsome project
 Use this deploy button to get your own copy of the repository.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/47a54e1c-0733-4d9c-aaf6-b1831d04dfef/deploy-status)](https://app.netlify.com/sites/gridsomesite/deploys)
+
+
 
