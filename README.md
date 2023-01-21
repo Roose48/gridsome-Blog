@@ -11,7 +11,7 @@ Using these TECH And FEATURES
 
 ## Preview
 
-![preview](https://res.cloudinary.com/lauragift/image/upload/v1558648720/gridsome-minimal-blog_qqm49s.png)
+<img src='instagram2.gif' title='' width='' alt='' />
 
 ## Install
 ### 1. Install Gridsome CLI tool if you don't have
