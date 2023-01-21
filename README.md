@@ -8,6 +8,7 @@ Using these TECH And FEATURES
 2. Vue
 3. GraphQL
 4. Markdown
+5. Netlify
 
 ## Preview
 
